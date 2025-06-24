@@ -1,0 +1,10 @@
+[project]
+name = "steaming-chatbot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "openai-agents>=0.0.19",
+    "rich>=14.0.0",
+]
